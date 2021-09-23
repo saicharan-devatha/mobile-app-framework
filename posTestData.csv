@@ -1,0 +1,7 @@
+display_name,description,list_price,quantity,sku,barcode,track_inventory,categories,images,visibility_on_pos,supplier,notes
+Ice Cream,Deserts,34.56,,,,FALSE,[Frozen],[https://sep.yimg.com/yi//e5ef54ff-08d8-4ca6-9d7d-318c473a1556/catalog/d7dfab8c-0123-4a35-9663-bbeb487a749f],TRUE,,
+Macaroni,Gotta haves,87.66,,,,FALSE,[Frozen],[https://sep.yimg.com/yi//e5ef54ff-08d8-4ca6-9d7d-318c473a1556/catalog/7d9c68f0-7584-4d4c-8e41-c613935af5fd],TRUE,,
+Lays,Snacks,7,,,,FALSE,"[Snacks, Favorites]",[https://sep.yimg.com/yi//e5ef54ff-08d8-4ca6-9d7d-318c473a1556/catalog/ba28960d-aeae-490d-9882-7b6f2feef9d5],TRUE,,
+Bananas,Fruits,70,,,,FALSE,[Snacks],[https://sep.yimg.com/yi//e5ef54ff-08d8-4ca6-9d7d-318c473a1556/catalog/16355070-f235-4f36-b848-7e62c65cd0b1],TRUE,,
+Drinks,Cold/Soft Drinks,20,,,,FALSE,"[Beverages, Favorites]",[https://sep.yimg.com/yi//e5ef54ff-08d8-4ca6-9d7d-318c473a1556/catalog/51c3ed63-8098-4538-8cf9-c26f512baaa6],TRUE,,
+Juices,All types of juices,130,,,,FALSE,[Beverages],[https://sep.yimg.com/yi//e5ef54ff-08d8-4ca6-9d7d-318c473a1556/catalog/57a132dd-b114-487f-b7da-b24fcfb7e9a5],TRUE,,
